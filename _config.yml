@@ -22,12 +22,12 @@ repository               : "skrticshayne/skrticshayne.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/IMG_6659.png"
+  avatar           : "/images/IMG_6659.png"
   name             : "Shayne Skrtic"
   pronouns         : "He/Him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational Biologist | Biochemist"
   location         : "Cincinnati OH"
-  employer         : "Red Brick University"
+  employer         : "Xavier University"
   uri              : # URL
   email            : "skrticshayne@gmail.com" 
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "skrticshayne"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/shayne-skrtic-218b41254"
+  linkedin         : "shayne-skrtic-218b41254"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
