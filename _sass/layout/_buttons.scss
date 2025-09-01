@@ -22,6 +22,25 @@
   border-radius: $border-radius;
   cursor: pointer;
 
+
+  &--primary {
+    background-color: var(--global-link-color);   /* theme-aware */
+    color: var(--global-text-color);              /* adapts to light/dark mode */
+    border: none;
+    border-radius: $border-radius;
+    padding: 0.6em 1.2em;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  
+    &:hover {
+      background-color: var(--global-link-color-hover);
+      transform: translateY(-2px);
+    }
+  }
+  
   &:hover {
     background-color: mix(white, #000, 20%);
   }

@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "COSMIC Database and Structural Modeling Analysis of CYP2D6 Mutations in Human Cancers"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-cosmic-cyp2d6
+excerpt: "Analysis of CYP2D6 mutations in human cancers using COSMIC database and structural modeling."
+date: 2024-11-19
+venue: 'Journal of Pharmacology and Experimental Therapeutics'
+slidesurl: #
+paperurl: #
+bibtexurl: #
+citation: '“COSMIC Database and Structural Modeling Analysis of CYP2D6 Mutations in Human Cancers(2024). Kuchinski K, King N, Driggers J, Lawson K, Vo M, Skrtic S, Slattery C, Lane R, Simone E, Mills S, Escorcia W, Wetzel H. Journal of Pharmacology and Experimental Therapeutics'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Single nucleotide polymorphisms (SNPs) in cytochrome P450 (CYP450) enzymes alter the metabolism of a variety of drugs. Numerous medications, including chemotherapies, are metabolized by CYP450 enzymes, making the expression of this suite of enzymes in tumor cells relevant to prescription regimens for patients with cancer. We analyzed the characteristics of mutations of the cytochrome P450 2D6 (CYP2D6) enzymes in cancer patients obtained from the Catalogue of Somatic Mutations in Cancer (COSMIC), including mutation type, age of the patient, tissue type, and histology. Mutations were analyzed through the Cancer-Related Analysis of Variants Toolkit (CRAVAT) software along with cancer-specific high-throughput annotation of somatic mutations (CHASMplus) and variant effect scoring tool (VEST4) algorithms to determine the likelihood of being a driver and/or pathogenic mutation. For mutations with significant CHASMplus and VEST4 scores, structural analysis of each corresponding mutant protein was performed. The effect of each mutation was evaluated for its impact on the overall protein stability and ligand binding using Foldit Standalone and SwissDock, respectively. Structural analysis revealed that several missense mutations in CYP2D6 resulted in altered stability after energy minimization. Three missense mutations of CYP2D6 significantly altered docking stability, and those located on alpha helices near the docking site had a more significant impact than those not found in secondary protein structures. In conclusion, we have identified a series of mutations to CYP2D6 enzymes with possible relevance to cancer pathologies. SIGNIFICANCE STATEMENT: CYP2D6 is responsible for the metabolism of many anticancer drugs. This study identified and characterized a series of mutations in the CYP2D6 enzyme that occurred in tumors. We found it likely that many of these mutations would alter enzyme function, leading to changes in drug metabolism in the tumor. We provide a basis for predicting the likelihood of a patient carrying these mutations to identify patients who may benefit from a precision medicine approach to drug selection and dosing.
