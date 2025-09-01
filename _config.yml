@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Shayne Skrtic / Site Title"
+title                    : "Shayne Skrtic / Public Portfolio"
 title_separator          : "-"
 name                     : &name "Shayne Skrtic"
 description              : &description "personal description"
@@ -22,24 +22,24 @@ repository               : "skrticshayne/skrticshayne.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "/assets/images/IMG_6659.png"
+  name             : "Shayne Skrtic"
+  pronouns         : "He/Him"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Cincinnati OH"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "skrticshayne@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=4tnJGd8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-9703-6013"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shayne+Skrtic"
   researchgate     : # URL
   scopus           : # URL
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/shayne-skrtic-218b41254"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
