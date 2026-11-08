@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology, Xavier University, 2026  
-  * Minors: Computer Science, Chemistry  
+* B.S. in Biology, Xavier University, December 2026 (expected)  
+  * Minor: Chemistry  
+  * Substantial coursework in Computer Science  
 
 Work experience
 ======
@@ -22,7 +23,7 @@ Work experience
 
 * Aug 2023 – Present: Biological Researcher  
   * Escorcia/Wetzel Lab, Xavier University  
-  * Duties included: Conducted molecular dynamics simulations (AlphaFold, Gromacs); developed data analysis pipelines (Python, Java); contributed to cancer-related aging research.  
+  * Duties included: Conducted molecular dynamics simulations (Gromacs) and protein structure prediction (AlphaFold); developed data analysis pipelines (Python, Java); contributed to cancer-related aging research.  
 
 * Jan 2024 – Jan 2025: Software Development Intern  
   * OakVar Bioinformatics  
@@ -32,16 +33,15 @@ Work experience
   * Engle Lab, Xavier University  
   * Duties included: Designed and executed experiments; applied genetic bioinformatics tools to analyze lab data.  
 
-* Feb 2019 – Jan 2025: Hourly Manager  
-  * Dewey’s Pizza, Lakewood, OH  
-  * Duties included: Managed team of 12 cooks; oversaw operations (ordering, hiring, inventory); led staff to maintain smooth service.  
+* Feb 2019 – Jan 2025: Hourly Manager, Dewey’s Pizza, Lakewood, OH  
+  * Managed a team of 12 and oversaw daily operations.  
 
 Skills
 ======
 * Programming & Data: Python, Java, R, HTML, CSS, Power BI, Excel Macros, JIRA  
-* Bioinformatics: Molecular Dynamics (Gromacs, AlphaFold), CRISPR Cas9, Plasmid vectors, Genetic analysis tools  
-* Laboratory: Fluorescent microscopy, PCR, qRT-PCR, Enzyme assays, Affinity chromatography  
-* Professional: Quality Assurance, GDP, GMP, LIMS, Monolix, Time management, Team leadership, Microsoft Office Suite  
+* Computational Biology: Molecular Dynamics (Gromacs), Protein Structure Prediction (AlphaFold), Pharmacokinetic Modeling (Monolix), Genetic analysis tools  
+* Laboratory: CRISPR Cas9, Plasmid vectors, Fluorescent microscopy, PCR, qRT-PCR, Enzyme assays, Affinity chromatography  
+* Professional: Quality Assurance, GDP, GMP, LIMS, Time management, Team leadership, Microsoft Office Suite  
 
 Publications
 ======
@@ -50,7 +50,7 @@ Publications
   * Journal of Pharmacology and Experimental Therapeutics  
 
 * Measuring Cell Dimensions in Fission Yeast Using Machine Learning (2024)  
-  * Skrtic S, Lawson K, Vo M, Escorcia W.  
+  * Skrtic S\*, Lawson K\*, Vo M, Escorcia W. (\*contributed equally)  
   * Methods in Molecular Biology  
 
 Posters
@@ -66,6 +66,11 @@ Posters
 * Spring 2024: *Expression, Purification, and Functional Characterization of the Hydrolase Enzyme 2O14*  
   * Xavier Research Symposium  
   * Authors: Shayne Skrtic, Jennah Hayes, Alyssa Johnson, Erin Linko, Matthew Liskai, Nate Mazza, Deja Rhodes, Carley Ryan, Lauren VanMieghem, Dr. Ellie Gagliani  
+
+Talks
+======
+* March 2024: *CYP2D6 Functional Importance in Personalized Healthcare*  
+  * Xavier University Research Roundup, Cincinnati, OH  
 
 <div class="cv-download-links" style="margin-top: 2em;">
   <a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--primary" download>

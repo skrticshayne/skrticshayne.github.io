@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Shayne Skrtic | Portfolio"
 title_separator          : "-"
 name                     : &name "Shayne Skrtic"
-description              : &description "personal description"
+description              : &description "Research portfolio of Shayne Skrtic in computational biology and bioinformatics"
 url                      : "https://shaynecv.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skrticshayne/skrticshayne.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "/images/IMG_6659.png"
   name             : "Shayne Skrtic"
   pronouns         : "He/Him"
-  bio              : "Computational Biologist | Biochemist"
+  bio              : "Computational Biology Researcher"
   location         : "Cincinnati OH"
   employer         : "Xavier University"
   uri              : # URL

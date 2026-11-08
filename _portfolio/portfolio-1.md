@@ -3,7 +3,7 @@ title: "COSMIC database Pipeline"
 excerpt: |
   Developed a Python Pipeline to easily sort, visualize, and transform cancer data
   <br/>
-  <img src="/images/cosmic.png" alt="COSMIC" width="500" height="300">
+  <img src="/images/COSMIC.png" alt="COSMIC" width="500" height="300">
 collection: portfolio
 
 ---
