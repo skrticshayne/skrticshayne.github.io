@@ -14,7 +14,7 @@ My work spans **bioinformatics, computational biochemistry, molecular dynamics, 
 - *COSMIC Database and Structural Modeling Analysis of CYP2D6 Mutations in Human Cancers* (2024)  
 - *Measuring Cell Dimensions in Fission Yeast Using Machine Learning* (2024), co-first author  
 
-I am currently a **Quality Assurance Microbiologist at Q Laboratories**, where I perform and validate microbiological techniques while ensuring compliance with USDA and FDA guidelines.  
+I am currently a **Systems Administrator at Q Laboratories**, where I perform and validate microbiological techniques while ensuring compliance with USDA and FDA guidelines.  
 
 I am also involved in **aging-related cancer research**, applying computational and experimental methods to study disease mechanisms.  
 
